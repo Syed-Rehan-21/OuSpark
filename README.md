@@ -9,4 +9,8 @@
 
 ![OuSpark Trailer](./docs/assets/PipelineAnimationAirflow.gif)
 
-[![Watch on YouTube](https://img.youtube.com/vi/1_JopwufiNY/hqdefault.jpg)](https://youtu.be/1_JopwufiNY)
+<p align="center">
+  <a href="https://youtu.be/1_JopwufiNY" target="_blank">
+    <img src="https://img.youtube.com/vi/1_JopwufiNY/hqdefault.jpg" alt="Watch on YouTube" width="100%" />
+  </a>
+</p>
