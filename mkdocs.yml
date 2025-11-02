@@ -1,4 +1,4 @@
-site_name: OuSpark
+site_name: "OuSpark Docs"
 site_description: A comprehensive case study of a cross-platform mobile application and automated results analytics system for engineering students.
 
 # Repository Information
@@ -25,8 +25,9 @@ nav:
 
 theme:
   name: material
+  custom_dir: docs/overrides
   logo: assets/favicon.gif
-  favicon: assets/favicon.svg
+  favicon: assets/favicon-32x32.png
   language: en
   palette:
     # Palette toggle for light mode
@@ -150,7 +151,7 @@ extra_css:
   - stylesheets/extra.css
   - stylesheets/extra-timeline.css
 extra:
-  favicon: assets/favicon.svg
+  favicon: assets/favicon-32x32.png
   generator: false  # disables the "Made with Material for MkDocs"
   social:
     - icon: fontawesome/brands/linkedin
